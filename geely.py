@@ -11,7 +11,7 @@ from aiogram.types import ReplyKeyboardRemove, \
 import json
 from asyncio import sleep
 
-token = "5717297177:AAG8CZkVFz-yfhEy1odm1mx4KafbDAUwasw"
+token = "maksim_pidoras"
 
 bot = Bot(token)
 storage = MemoryStorage()
